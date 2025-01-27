@@ -1,0 +1,12 @@
+services:
+  flask-app:
+    build:
+      context: .  # Use the current directory as the build context
+    ports:
+      - "5001:5000"  # Map host port 5001 to container port 5000
+    volumes:
+      - ./app:/app/app  # Mount the app directory into the container (useful for development)
+    environment:
+      FLASK_ENV: development  # Set Flask environment to development mode (optional)
+    command: python app/app.py  # Specify the path to the app
+

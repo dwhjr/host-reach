@@ -1,0 +1,11 @@
+.
+├── Dockerfile
+├── app
+│   ├── app.py
+│   └── static
+│       └── logo
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
+
+3 directories, 6 files
