@@ -66,6 +66,9 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License.
 
-<h2>Acknowledgments</h2>
-- Powered by Solo Orbit.</br>
-- Built using Flask and Python.
+<h2>Acknowledgments and Parting Thoughts</h2>
+- Powered by Solo Orbit</br>
+- Built using Flask and Python</br>
+- Be Kind</br>
+- Pals</br>
+- By God Woodrow, you just never get the point do you? It ain't dying I am talking about, it's living.
