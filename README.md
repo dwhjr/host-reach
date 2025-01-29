@@ -39,14 +39,17 @@ The application utilizes Flask and Python.
 ## Project Structure
 ```
 \Project-root-folder
-├── Dockerfile              # Docker build instructions
+├── Dockerfile				# Docker build instructions
+├── LICENSE				# License information
+├── README.md				# Project documentation
 ├── app
-│   ├── app.py              # Main Flask application
+│   ├── app.py				# Main Flask application
 │   └── static
-│       └── logo            # Project logo
-├── docker-compose.yml      # Docker Compose configuration
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+│       └── solo-logo.png		# Project logo
+├── docker-compose.yml			# Docker Compose configuration
+├── requirements.txt			# Python dependencies
+├── tree-updated.txt			# Project File Structure
+└── tree.txt				# Original Project File Structure
 ```
 <h2>Screenshots</h2>
 
