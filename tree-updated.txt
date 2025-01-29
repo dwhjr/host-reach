@@ -1,16 +1,5 @@
 .
 ├── Dockerfile
-├── app
-│   ├── app.py
-│   └── static
-│       └── logo
-├── docker-compose.yml
-├── requirements.txt
-└── README.md
-
-3 directories, 6 files
-.
-├── Dockerfile
 ├── LICENSE
 ├── README.md
 ├── app
@@ -19,6 +8,7 @@
 │       └── solo-logo.png
 ├── docker-compose.yml
 ├── requirements.txt
+├── tree-updated.txt
 └── tree.txt
 
-3 directories, 8 files
+3 directories, 9 files
